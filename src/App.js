@@ -21,7 +21,7 @@ const App = () => {
 
   return (
     <div className="App" >
-      <h1 style={{ color: "#111", backgroundColor: "" ,textAlign: "center"}}> Todo List</h1>
+      <h1 style={{ color: "#111" ,textAlign: "center",}}> Todo List</h1>
       {/* <hr style={{ width: "50%" }} /> */}
       <div style={{display:"flex",alignItems:"center",justifyContent:"center"}}>
         <input
